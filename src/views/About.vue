@@ -7,7 +7,6 @@
       <div class='card-body'>
         <p>This application, Shopp is built using Vue framework, Bootstrap and CSS. It is made for PoC purpose.
         </p>
-
       </div>
     </div>
   </div>
